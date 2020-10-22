@@ -2,6 +2,7 @@
 
 [[logo/quelpa-logo-h64.png]]
 
+file:https://github.com/quelpa/quelpa/workflows/CI/badge.svg
 [[https://melpa.org/#/quelpa][file:https://melpa.org/packages/quelpa-badge.svg]]
 [[https://stable.melpa.org/#/quelpa][file:https://stable.melpa.org/packages/quelpa-badge.svg]]
 
